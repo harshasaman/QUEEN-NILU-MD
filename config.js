@@ -14,16 +14,16 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = 'QueenNilu;;;1uZF3SbJ#1GTIJTXAV155uMqBwXf5mPmCwoQDq91GQZJna7-mH_A' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QUEENNILU;;;JyVFQKaK#eDIYcxZOQgwCXjFhZLuxrgJeVLn77WCoDjQ6WR_0FUQ' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = 'postgres://harshabb_user:qwhG8l2VjWTFPMHFGwJ0TUe8pL8II9e2@dpg-clgve9r1hq4c73bkjvng-a.oregon-postgres.render.com/harshabb'
+global.POSTGRESQL_URL = 'postgres://harsha_saman_user:9Nv6uiue6CxS4WY0IAcYLz67UpzWboZk@dpg-ckafammgtj9c73fqp1rg-a.frankfurt-postgres.render.com/harsha_saman'
 
  
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94774407991'
+global.OWNER_NUMBER = '94768079451'
 
 global.OWNER_NAME = 'нαяѕнα ѕαмαη'
 
@@ -35,7 +35,7 @@ global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
 global.READ_MESSAGE = "true" 
 
-global.OPENAI_API_KEY = "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" 
+global.OPENAI_API_KEY = "800zDb1S1693xYzlMjvAT3BlbkFJxGINlLVTqNWQeNB9FRv9" 
 
 /*
 ⚙️ BOT  SETTINGS  ⚙️
@@ -45,9 +45,9 @@ global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
 
 global.FOOTER = 'Queen Nilu 2023'
 
-global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
+global.BOT_OFFLINE = true    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@harsha🤹‍♂️' //sticker
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
