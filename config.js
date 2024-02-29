@@ -14,7 +14,7 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = 'QUEENNILU;;;JyVFQKaK#eDIYcxZOQgwCXjFhZLuxrgJeVLn77WCoDjQ6WR_0FUQ' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QUEENNILU;;;smVH0BBY#JFvuoZHef1nUS7QjMV1IL4KQEVUkNBlAe-dX1fBy-e4' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
 global.POSTGRESQL_URL = 'postgres://harsha_saman_user:9Nv6uiue6CxS4WY0IAcYLz67UpzWboZk@dpg-ckafammgtj9c73fqp1rg-a.frankfurt-postgres.render.com/harsha_saman'
@@ -23,7 +23,7 @@ global.POSTGRESQL_URL = 'postgres://harsha_saman_user:9Nv6uiue6CxS4WY0IAcYLz67Up
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94768079451'
+global.OWNER_NUMBER = '94763956621'
 
 global.OWNER_NAME = 'нαяѕнα ѕαмαη'
 
@@ -65,7 +65,7 @@ global.ANTI_BAD = true // Antibad (on = True , Off = False )
 
 global.ANTI_BAD_ACTION = false
 
-global.ANTI_LINK = true //Anti Link (on = True , Off = False )
+global.ANTI_LINK = false //Anti Link (on = True , Off = False )
 
 global.ANTI_BOTS = true
 
